@@ -2,7 +2,8 @@ title: Gilded Rose Kata
 description: Documentation site for the Gilded Rose Kata.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://ibanfr.github.io/gilded-rose-refactoring-kata/
+repository: https://github.com/ibanFR/gilded-rose-refactoring-kata
 
 aux_links:
   Iván Fernández: https://ibanfr.github.io/
